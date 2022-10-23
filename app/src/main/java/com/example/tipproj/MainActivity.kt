@@ -11,7 +11,7 @@ import android.widget.TextView
 private const val INIT_TIP_PERCENT = 15
 private const val TAG ="MainActivity"
 
-
+//fdi
 class MainActivity : AppCompatActivity() {
     private lateinit var Pretipamount: EditText
     private lateinit var Tbar: SeekBar
